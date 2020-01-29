@@ -1,9 +1,9 @@
 {
-  "name": "belt",
+  "name": "wrench",
   "version": "0.0.1",
-  "description": "hew's belt",
+  "description": "multi-purpose wrench",
   "main": "index.js",
-  "repository": "https://github.com/hew/belt",
+  "repository": "https://github.com/hew/wrench",
   "author": "hew <matt@hew.tools>",
   "dependencies": {
     "@commitlint/cli": "^8.1.0",
